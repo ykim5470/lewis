@@ -23,7 +23,7 @@ email: ykim5470@uni.sydney.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   A Medium publication sharing concepts, ideas, and codes.
   With passion of journey towards Data Scientist.  
-baseurl: "/lewis" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://lewis-hub.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: hub_lewis
 github_username:  ykim5470
